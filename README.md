@@ -1,5 +1,5 @@
 Hi there 👋 I'm Raza
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 I'm a Software Engineering Graduate
 
 👨‍💻 I build AI systems end-to-end (RAG pipelines, LLM agents, and production-ready inference services)
@@ -14,5 +14,7 @@ I'm a Software Engineering Graduate
 
 Languages
 
-AI / GenAI Stack
-Cloud & Tools
+Programming Languages: Python, Java, C/C++, SQL, Node.js
+Frameworks: LangChain, PyTorch, Pydantic, FastAPI, Google Firebase, PyTest, Boost Testing Framework, JUnit
+Developer Tools: Git/GitHub, Docker, Amazon Web Services (AWS), Google Cloud Platform, Microsoft Azure, Jenkins, Visual
+Studio

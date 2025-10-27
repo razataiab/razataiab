@@ -12,9 +12,9 @@ I'm a Software Engineering Graduate
 
 🔧 Tech I work with
 
-Languages
-
 Programming Languages: Python, Java, C/C++, SQL, Node.js
+
 Frameworks: LangChain, PyTorch, Pydantic, FastAPI, Google Firebase, PyTest, Boost Testing Framework, JUnit
+
 Developer Tools: Git/GitHub, Docker, Amazon Web Services (AWS), Google Cloud Platform, Microsoft Azure, Jenkins, Visual
 Studio

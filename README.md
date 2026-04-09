@@ -1,20 +1,16 @@
 Hi there 👋 I'm Raza
 
-I'm a Software Engineering Graduate
+I'm a Software Engineering graduate.
 
-👨‍💻 I build AI systems end-to-end (RAG pipelines, LLM agents, and production-ready inference services)
+👨‍💻 I design and build scalable backend services, including AI-powered systems such as RAG pipelines and LLM agents.
 
-🚀 Hands-on experience from internships at Publicis Sapient (RAG backend) and Autodiscovery (robotics systems)
+🚀 Hands-on experience through internship at Publicis Sapient.
 
-🧠 Interested in solving real problems with AI: latency, retrieval quality, grounding, and workflow automation
-
-🎯 Current focus: shipping GenAI products that actually deliver value
+🧠 Interested in solving real-world backend challenges: system performance, latency, data pipelines, retrieval quality, and reliable service orchestration.
 
 🔧 Tech I work with
 
-Programming Languages: Python, Java, C/C++, SQL, Node.js
-
-Frameworks: LangChain, PyTorch, Pydantic, FastAPI, Google Firebase, PyTest, Boost Testing Framework, JUnit
-
-Developer Tools: Git/GitHub, Docker, Amazon Web Services (AWS), Google Cloud Platform, Microsoft Azure, Jenkins, Visual
-Studio
+Programming Languages: Python, Java, SQL, Node.js
+Frameworks & Tools: FastAPI, Pydantic, LangChain, PyTorch
+Cloud & DevOps: AWS, GCP, Docker, Jenkins
+Testing & Tooling: PyTest, Boost Test, Git/GitHub
